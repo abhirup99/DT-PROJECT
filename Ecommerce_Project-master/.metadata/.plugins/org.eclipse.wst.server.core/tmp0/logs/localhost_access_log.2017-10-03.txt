@@ -1,0 +1,9 @@
+127.0.0.1 - - [03/Oct/2017:23:59:36 -0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/ HTTP/1.1" 200 8315
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "HEAD /ecommerce1/ HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/home1.jsp HTTP/1.1" 404 1034
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/ HTTP/1.1" 200 8315
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/resources/images/lamborgini.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/resources/images/047.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:44 -0700] "GET /ecommerce1/resources/images/bokert.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [03/Oct/2017:23:59:45 -0700] "GET /favicon.ico HTTP/1.1" 404 1016

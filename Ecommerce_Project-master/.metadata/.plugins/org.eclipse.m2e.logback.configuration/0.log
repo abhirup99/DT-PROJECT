@@ -1,0 +1,789 @@
+2017-09-24 00:49:28,053 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce:ecommerce:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce\pom.xml.
+2017-09-24 00:49:32,633 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:49:32,641 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce\src\main\resources
+2017-09-24 00:49:32,647 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:49:32,654 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce\src\test\resources
+2017-09-24 00:49:33,179 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:49:33,186 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce\src\main\resources
+2017-09-24 00:49:33,197 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:49:33,206 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce\src\test\resources
+2017-09-24 00:49:34,007 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 00:49:38,382 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.pom
+2017-09-24 00:49:38,764 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.pom
+2017-09-24 00:49:39,176 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.21/slf4j-parent-1.7.21.pom
+2017-09-24 00:49:39,694 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.21/slf4j-parent-1.7.21.pom
+2017-09-24 00:49:40,034 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.pom
+2017-09-24 00:49:40,394 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.pom
+2017-09-24 00:49:40,736 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2017-09-24 00:49:41,054 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/4.3.5.RELEASE/spring-framework-bom-4.3.5.RELEASE.pom
+2017-09-24 00:49:41,390 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2017-09-24 00:49:41,695 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.pom
+2017-09-24 00:49:42,029 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.pom
+2017-09-24 00:49:42,381 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.pom
+2017-09-24 00:49:42,719 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2017-09-24 00:49:43,100 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.3.5.RELEASE/spring-aop-4.3.5.RELEASE.pom
+2017-09-24 00:49:43,435 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2017-09-24 00:49:43,753 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.3.5.RELEASE/spring-beans-4.3.5.RELEASE.pom
+2017-09-24 00:49:44,090 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2017-09-24 00:49:44,413 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-core/4.3.5.RELEASE/spring-core-4.3.5.RELEASE.pom
+2017-09-24 00:49:44,758 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2017-09-24 00:49:45,100 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-context/4.3.5.RELEASE/spring-context-4.3.5.RELEASE.pom
+2017-09-24 00:49:45,433 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2017-09-24 00:49:45,788 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.3.5.RELEASE/spring-expression-4.3.5.RELEASE.pom
+2017-09-24 00:49:46,200 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.pom
+2017-09-24 00:49:46,539 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.pom
+2017-09-24 00:49:46,898 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.pom
+2017-09-24 00:49:47,235 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.pom
+2017-09-24 00:49:47,616 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2017-09-24 00:49:47,973 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.pom
+2017-09-24 00:49:48,320 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2017-09-24 00:49:48,635 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.pom
+2017-09-24 00:49:48,972 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.pom
+2017-09-24 00:49:49,349 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.pom
+2017-09-24 00:49:49,741 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2017-09-24 00:49:50,193 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE.pom
+2017-09-24 00:49:50,529 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
+2017-09-24 00:49:50,854 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.pom
+2017-09-24 00:49:50,884 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ecommerce2:ecommercebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-09-24 00:49:51,257 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar
+2017-09-24 00:49:52,006 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar
+2017-09-24 00:49:52,350 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.jar
+2017-09-24 00:49:53,880 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/4.2.2.RELEASE/spring-security-config-4.2.2.RELEASE.jar
+2017-09-24 00:49:54,191 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2017-09-24 00:49:54,561 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/aopalliance/aopalliance/1.0/aopalliance-1.0.jar
+2017-09-24 00:49:54,869 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.jar
+2017-09-24 00:49:56,093 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/4.2.2.RELEASE/spring-security-core-4.2.2.RELEASE.jar
+2017-09-24 00:49:56,414 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.jar
+2017-09-24 00:49:56,887 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-taglibs/4.2.2.RELEASE/spring-security-taglibs-4.2.2.RELEASE.jar
+2017-09-24 00:49:57,219 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.jar
+2017-09-24 00:49:57,565 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-acl/4.2.2.RELEASE/spring-security-acl-4.2.2.RELEASE.jar
+2017-09-24 00:49:57,868 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.jar
+2017-09-24 00:49:58,414 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.3.5.RELEASE/spring-jdbc-4.3.5.RELEASE.jar
+2017-09-24 00:49:58,755 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar
+2017-09-24 00:49:59,225 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.3.5.RELEASE/spring-tx-4.3.5.RELEASE.jar
+2017-09-24 00:49:59,538 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.jar
+2017-09-24 00:50:00,054 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/4.2.2.RELEASE/spring-security-web-4.2.2.RELEASE.jar
+2017-09-24 00:50:00,367 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
+2017-09-24 00:50:00,738 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/jsp/jsp-api/2.1/jsp-api-2.1.jar
+2017-09-24 00:50:03,661 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.ecommerce2:ecommercebackend:jar:0.0.1-SNAPSHOT is missing, no dependency information available
+2017-09-24 00:50:04,334 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:50:04,343 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 00:50:04,350 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:50:04,356 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 00:50:05,754 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce2:ecommercebackend:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\pom.xml.
+2017-09-24 00:50:07,138 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2017-09-24 00:50:07,515 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.pom
+2017-09-24 00:50:08,630 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-dbcp2/2.1.1/commons-dbcp2-2.1.1.pom
+2017-09-24 00:50:09,237 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-dbcp2/2.1.1/commons-dbcp2-2.1.1.pom
+2017-09-24 00:50:09,578 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.pom
+2017-09-24 00:50:09,943 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.pom
+2017-09-24 00:50:10,269 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2017-09-24 00:50:10,635 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2017-09-24 00:50:11,074 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2017-09-24 00:50:11,396 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2017-09-24 00:50:11,818 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2017-09-24 00:50:14,659 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/h2database/h2/1.4.196/h2-1.4.196.jar
+2017-09-24 00:50:14,980 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-dbcp2/2.1.1/commons-dbcp2-2.1.1.jar
+2017-09-24 00:50:15,419 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-dbcp2/2.1.1/commons-dbcp2-2.1.1.jar
+2017-09-24 00:50:15,738 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar
+2017-09-24 00:50:16,166 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-pool2/2.4.2/commons-pool2-2.4.2.jar
+2017-09-24 00:50:16,511 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2017-09-24 00:50:16,881 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2017-09-24 00:50:18,291 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 00:50:21,781 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:21,785 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 00:50:21,791 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:21,792 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 00:50:25,665 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:25,665 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 00:50:25,668 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:25,669 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 00:50:26,303 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:50:26,318 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 00:50:26,342 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:50:26,360 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 00:50:26,765 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommercebackend2:ecommercebackend2:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\pom.xml.
+2017-09-24 00:50:27,508 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:27,508 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\main\resources
+2017-09-24 00:50:27,511 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:27,516 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\test\resources
+2017-09-24 00:50:37,742 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:37,746 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\main\resources
+2017-09-24 00:50:37,756 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 00:50:37,760 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\test\resources
+2017-09-24 00:51:51,169 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-24 00:51:51,542 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 00:51:52,980 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-09-24 00:51:52,999 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-09-24 00:51:55,353 [Worker-23] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 00:51:55,370 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-09-24 00:51:55,900 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:51:55,909 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 00:51:55,912 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 00:51:55,920 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 00:51:55,920 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 00:51:55,926 [Worker-21] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 00:51:55,939 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:00:54,410 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:00:54,467 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:00:54,508 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:00:54,517 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:01:47,477 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-24 01:01:47,920 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 01:01:49,247 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-09-24 01:01:49,252 [Worker-37] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-09-24 01:01:50,632 [Worker-37] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 01:01:50,643 [Worker-37] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-09-24 01:01:51,243 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:01:51,251 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:01:51,257 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:01:51,261 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:01:51,265 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 01:01:51,266 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 01:01:51,306 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:11:39,926 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:11:40,028 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:11:40,036 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:11:40,050 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:12:03,061 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-24 01:12:03,372 [Worker-48] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 01:12:05,330 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-09-24 01:12:05,335 [Worker-48] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-09-24 01:12:07,248 [Worker-48] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 01:12:07,263 [Worker-48] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2017-09-24 01:12:08,159 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:12:08,168 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:12:08,175 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:12:08,182 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:12:08,184 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 01:12:08,184 [Worker-50] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 01:12:08,202 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:13:09,177 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:13:09,186 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:13:09,191 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:13:09,198 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:14:05,151 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:05,158 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:14:05,163 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:05,169 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:14:24,237 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-24 01:14:24,633 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 01:14:26,722 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-09-24 01:14:26,727 [Worker-46] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-09-24 01:14:28,121 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 01:14:28,136 [Worker-46] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2017-09-24 01:14:29,160 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:29,170 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:14:29,181 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:29,185 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:14:29,190 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 01:14:29,190 [Worker-42] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 01:14:29,208 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:45,896 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:14:45,896 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:14:45,899 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:14:45,903 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:14:45,925 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:45,934 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:14:45,936 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:14:45,944 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:14:45,958 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:14:45,958 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\main\resources
+2017-09-24 01:14:45,960 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:14:45,964 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\test\resources
+2017-09-24 01:27:54,996 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:27:54,996 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:27:54,999 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:27:55,000 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:28:10,440 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:28:10,442 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:28:10,477 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:28:10,478 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:28:45,946 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:28:45,947 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:28:45,952 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:28:45,956 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:29:44,183 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:29:44,183 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:29:44,187 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:29:44,194 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:30:10,360 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:10,360 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:30:10,363 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:10,368 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:30:19,927 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:19,932 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:30:19,939 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:19,944 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:30:50,601 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:50,601 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:30:50,604 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:30:50,611 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:31:18,469 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:31:18,474 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:31:18,482 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:31:18,487 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:33:59,458 [Worker-46] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 01:34:00,452 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:34:00,452 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:34:00,459 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:34:00,471 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:34:00,756 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:34:00,761 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:34:00,771 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:34:00,776 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:34:00,776 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 01:34:00,777 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 01:34:00,816 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:34:00,935 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:34:00,935 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\main\resources
+2017-09-24 01:34:00,937 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:34:00,941 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\test\resources
+2017-09-24 01:37:25,190 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:37:25,199 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:37:25,208 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:37:25,219 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:38:34,721 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:38:34,722 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:38:34,725 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:38:34,731 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:43:32,538 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:43:32,539 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:43:32,546 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:43:32,550 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:44:51,752 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:44:51,753 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:44:51,755 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:44:51,764 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:45:13,607 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-24 01:45:14,305 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-09-24 01:45:15,722 [Worker-62] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce2:ecommercebackend:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\pom.xml.
+2017-09-24 01:45:19,710 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-09-24 01:45:19,714 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-09-24 01:45:21,860 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommercebackend/src/main/java
+2017-09-24 01:45:21,862 [Worker-62] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommercebackend/src/test/java
+2017-09-24 01:45:22,491 [Worker-62] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-09-24 01:45:22,864 [Worker-62] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2017-09-24 01:45:24,920 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:45:24,924 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 01:45:24,930 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 01:45:24,930 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 01:45:25,902 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:45:25,958 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:45:25,964 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:45:25,973 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:45:25,978 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-09-24 01:45:25,978 [Worker-68] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-09-24 01:45:25,990 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:47:51,901 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:47:51,958 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:47:51,961 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:47:51,978 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 01:58:43,172 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:58:43,233 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 01:58:43,239 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 01:58:43,248 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:00:08,265 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:00:08,277 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:00:08,399 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:00:08,423 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:05:40,488 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 02:05:40,496 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-24 02:05:40,506 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-24 02:05:40,514 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-24 02:08:26,575 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:08:26,620 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:08:26,623 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:08:26,631 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:12:21,359 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:12:21,446 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:12:21,459 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:12:21,480 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:13:08,403 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:13:08,416 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:13:08,420 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:13:08,438 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:14:00,771 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:14:00,803 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:14:00,822 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:14:00,851 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:14:48,619 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:14:48,628 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:14:48,631 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:14:48,648 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:15:01,081 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:01,091 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:15:01,098 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:01,107 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:15:12,392 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:12,402 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:15:12,407 [Worker-78] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:12,426 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:15:22,370 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:22,387 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:15:22,397 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:22,413 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:15:57,226 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:57,233 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:15:57,236 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:15:57,249 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:16:07,059 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:07,075 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:16:07,086 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:07,102 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:16:19,630 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:19,639 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:16:19,643 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:19,659 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:16:29,388 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:29,402 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:16:29,410 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:29,424 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:16:40,666 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:40,674 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:16:40,676 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:40,691 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:16:50,068 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:50,082 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:16:50,091 [Worker-70] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:16:50,104 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:18:04,620 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:18:04,632 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:18:04,637 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:18:04,660 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:21:02,611 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:21:02,661 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:21:02,676 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:21:02,697 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:22:15,089 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:22:15,099 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:22:15,103 [Worker-87] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:22:15,119 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:23:01,459 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:23:01,480 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:23:01,493 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:23:01,512 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:24:59,730 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:24:59,736 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:24:59,739 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:24:59,750 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:26:09,640 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:26:09,664 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:26:09,677 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:26:09,695 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:27:07,837 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:27:07,853 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:27:07,856 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:27:07,866 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:28:12,993 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:28:13,017 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:28:13,035 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:28:13,060 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:28:37,699 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:28:37,708 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:28:37,711 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:28:37,728 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:29:48,253 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:29:48,270 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:29:48,281 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:29:48,304 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:32:04,157 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:32:04,171 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:32:04,178 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:32:04,202 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:33:39,863 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:33:39,886 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:33:39,901 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:33:39,925 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:34:26,537 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:34:26,546 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:34:26,549 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:34:26,566 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:40:43,544 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:40:43,568 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:40:43,584 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:40:43,608 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:42:52,446 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:42:52,452 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:42:52,454 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:42:52,463 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:51:06,191 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:51:06,298 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:51:06,312 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:51:06,321 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:52:30,600 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:52:30,607 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:52:30,612 [Worker-108] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:52:30,619 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:54:39,894 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:54:39,903 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:54:39,906 [Worker-111] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:54:39,924 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:57:06,141 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:57:06,231 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:57:06,238 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:57:06,247 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 02:57:47,636 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:57:47,695 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 02:57:47,697 [Worker-110] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 02:57:47,726 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 03:00:20,816 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:00:21,093 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 03:00:21,105 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:00:21,122 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 03:40:49,174 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:40:49,315 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 03:40:49,335 [Worker-132] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:40:49,343 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 03:46:50,026 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:46:50,035 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 03:46:50,041 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 03:46:50,050 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 22:32:31,591 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:32:31,621 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 22:32:31,627 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:32:31,632 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 22:52:34,903 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:52:34,953 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 22:52:34,956 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:52:34,972 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-24 22:58:51,893 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:58:51,913 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-24 22:58:51,917 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-24 22:58:51,922 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-25 01:39:50,805 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 01:39:50,835 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-25 01:39:50,841 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 01:39:50,841 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-25 01:39:54,968 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:39:54,975 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-25 01:39:54,995 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 01:39:55,004 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-25 01:39:56,998 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 01:39:56,999 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\main\resources
+2017-09-25 01:39:57,002 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 01:39:57,003 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend2\src\test\resources
+2017-09-25 22:16:49,785 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 22:16:49,820 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-25 22:16:49,833 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-25 22:16:49,834 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-25 22:16:53,591 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 22:16:53,598 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-25 22:16:53,602 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-25 22:16:53,607 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-26 05:39:20,390 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 05:39:20,450 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-09-26 05:39:20,455 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-26 05:39:20,456 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-09-26 05:39:25,130 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 05:39:25,139 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-26 05:39:25,149 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 05:39:25,165 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-26 05:57:45,774 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 05:57:45,791 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-26 05:57:45,795 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 05:57:45,800 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-09-26 06:05:07,851 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 06:05:07,859 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-09-26 06:05:07,862 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-09-26 06:05:07,874 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-03 23:57:17,797 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-03 23:57:17,851 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-03 23:57:17,857 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-03 23:57:17,864 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:16:41,293 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:16:41,301 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:16:41,305 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:16:41,311 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:18:00,514 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:18:00,515 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:18:00,519 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:18:00,520 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:18:01,459 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:18:01,464 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:18:01,467 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:18:01,473 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:18:27,662 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:18:27,672 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:18:27,677 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:18:27,686 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:24:39,781 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:24:39,782 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:24:39,790 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:24:39,791 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:25:16,725 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:25:16,726 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:25:16,728 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:25:16,729 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:27:35,308 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:27:35,314 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:27:35,324 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:27:35,325 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:27:44,383 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:27:44,384 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:27:44,390 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:27:44,390 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:28:56,818 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:28:56,822 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:28:56,829 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:28:56,829 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:29:09,488 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-04 00:29:11,230 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:29:11,231 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-04 00:29:11,234 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-04 00:29:11,238 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-04 00:29:11,495 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:29:11,571 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:29:11,574 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:29:11,587 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:29:11,588 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-04 00:29:11,590 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-04 00:29:11,775 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:46:55,669 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:46:55,681 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:46:55,686 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:46:55,696 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-04 00:48:36,788 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:48:36,902 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-04 00:48:36,915 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-04 00:48:36,932 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-07 07:33:30,340 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-07 07:33:30,370 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-07 07:33:30,377 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-07 07:33:30,382 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-09 08:31:39,707 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:31:39,780 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-09 08:31:39,795 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:31:39,804 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-09 08:31:46,727 [Worker-7] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-09 08:31:49,149 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-09 08:31:49,150 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-09 08:31:49,154 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-09 08:31:49,155 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-09 08:31:50,523 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:31:50,530 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-09 08:31:50,539 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:31:50,544 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-09 08:31:50,545 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-09 08:31:50,546 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-09 08:31:50,706 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:34:54,115 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-09 08:34:57,456 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-10-09 08:34:59,791 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-10-09 08:34:59,792 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-10-09 08:35:02,738 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-09 08:35:02,768 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2017-10-09 08:35:03,531 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:35:03,537 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-09 08:35:03,544 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-09 08:35:03,550 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-09 08:35:03,555 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-09 08:35:03,555 [Worker-24] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-09 08:35:03,569 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 10:34:57,139 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 10:34:57,174 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 10:34:57,211 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 10:34:57,216 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:01:03,804 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:01:03,867 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:01:03,870 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:01:03,876 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:03:56,890 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:03:56,890 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:03:56,894 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:03:56,895 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:07:32,903 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce2:ecommercebackend:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\pom.xml.
+2017-10-11 11:07:35,979 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.pom
+2017-10-11 11:07:36,518 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.pom
+2017-10-11 11:07:36,950 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.0.1.Final/hibernate-validator-parent-5.0.1.Final.pom
+2017-10-11 11:07:37,745 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.0.1.Final/hibernate-validator-parent-5.0.1.Final.pom
+2017-10-11 11:07:38,137 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2017-10-11 11:07:38,540 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2017-10-11 11:07:38,941 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2017-10-11 11:07:39,321 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2017-10-11 11:07:39,758 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2017-10-11 11:07:40,160 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2017-10-11 11:07:40,589 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2017-10-11 11:07:40,989 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2017-10-11 11:07:41,405 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2017-10-11 11:07:41,826 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+2017-10-11 11:07:42,277 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.pom
+2017-10-11 11:07:42,714 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.pom
+2017-10-11 11:07:43,132 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2017-10-11 11:07:43,646 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/jboss-parent/7/jboss-parent-7.pom
+2017-10-11 11:07:44,061 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/classmate/0.8.0/classmate-0.8.0.pom
+2017-10-11 11:07:44,506 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/classmate/0.8.0/classmate-0.8.0.pom
+2017-10-11 11:07:44,995 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-10-11 11:07:45,413 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-10-11 11:07:46,126 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.jar
+2017-10-11 11:07:49,776 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.0.1.Final/hibernate-validator-5.0.1.Final.jar
+2017-10-11 11:07:50,191 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2017-10-11 11:07:50,789 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+2017-10-11 11:07:51,802 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-10-11 11:07:53,716 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:07:53,721 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:07:53,727 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:07:53,728 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:07:58,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:07:58,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:07:58,036 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:07:58,036 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:07:59,796 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:07:59,923 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:07:59,930 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:07:59,940 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:13:02,031 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:13:02,032 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:13:02,036 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:13:02,037 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:13:28,023 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:13:28,027 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:13:28,034 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:13:28,034 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:19:02,267 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-11 11:19:02,633 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce2:ecommercebackend:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\pom.xml.
+2017-10-11 11:19:03,989 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommercebackend/src/main/java
+2017-10-11 11:19:03,993 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommercebackend/src/test/java
+2017-10-11 11:19:05,220 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-10-11 11:19:05,915 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:19:05,919 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 11:19:05,932 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 11:19:05,948 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 11:28:33,018 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:28:33,103 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:28:33,107 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:28:33,119 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:29:16,758 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:29:16,818 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:29:16,827 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:29:16,838 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:34:59,958 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:34:59,985 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:34:59,989 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:35:00,051 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 11:36:11,051 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:36:11,070 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 11:36:11,083 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 11:36:11,101 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:11:57,351 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:11:57,372 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:11:57,377 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:11:57,395 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:13:30,514 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:13:30,530 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:13:30,556 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:13:30,570 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:15:29,734 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:15:29,763 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:15:29,773 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:15:29,790 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:16:38,360 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:16:38,378 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:16:38,397 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:16:38,417 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:18:37,236 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:18:37,243 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:18:37,246 [Worker-75] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:18:37,257 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 12:21:50,639 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:21:50,653 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 12:21:50,663 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 12:21:50,678 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 21:49:07,806 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 21:49:07,841 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 21:49:07,847 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 21:49:07,853 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 22:07:32,584 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:07:32,586 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 22:07:32,590 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:07:32,590 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 22:07:45,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:07:45,601 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 22:07:45,605 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:07:45,605 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 22:13:59,123 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:13:59,124 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 22:13:59,127 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 22:13:59,128 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 22:35:00,673 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 22:35:00,723 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 22:35:00,728 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 22:35:00,736 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-11 23:52:27,500 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 23:52:27,509 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-11 23:52:27,515 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-11 23:52:27,516 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-11 23:52:29,592 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 23:52:29,601 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-11 23:52:29,607 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-11 23:52:29,612 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-12 00:47:07,770 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-12 00:47:07,806 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-12 00:47:07,810 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-12 00:47:07,816 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-12 00:52:36,974 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-12 00:52:36,974 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-12 00:52:36,979 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-12 00:52:36,979 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-13 10:50:48,828 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 10:50:49,040 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-13 10:50:49,047 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 10:50:49,053 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-13 10:59:23,524 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 10:59:23,566 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-13 10:59:23,571 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 10:59:23,578 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-13 21:56:20,555 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-13 21:56:20,577 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-13 21:56:20,582 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-13 21:56:20,582 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-13 21:56:22,926 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 21:56:22,935 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-13 21:56:22,940 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-13 21:56:22,945 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-14 00:59:39,925 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 00:59:39,959 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-14 00:59:39,965 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 00:59:39,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-14 01:02:11,566 [Worker-2] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-14 01:02:14,026 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-14 01:02:14,026 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\main\resources
+2017-10-14 01:02:14,030 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-14 01:02:14,030 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommercebackend\src\test\resources
+2017-10-14 01:02:15,533 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 01:02:15,560 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-14 01:02:15,563 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 01:02:15,568 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-14 01:02:15,569 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-14 01:02:15,572 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-14 01:02:15,684 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 01:05:30,624 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-14 01:05:32,647 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-10-14 01:05:35,210 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-10-14 01:05:35,212 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-10-14 01:05:37,871 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-14 01:05:37,886 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2017-10-14 01:05:38,695 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 01:05:38,700 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-14 01:05:38,707 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-14 01:05:38,716 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-14 01:05:38,720 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-14 01:05:38,720 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-14 01:05:38,733 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-15 00:57:28,930 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-15 00:57:29,008 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-15 00:57:29,029 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-15 00:57:29,078 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-15 01:16:54,652 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-15 01:16:58,923 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.ecommerce1:ecommerce1:0.0.1-SNAPSHOT @ C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\pom.xml.
+2017-10-15 01:17:01,906 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/main/java
+2017-10-15 01:17:01,908 [Worker-18] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ecommerce1/src/test/java
+2017-10-15 01:17:06,377 [Worker-18] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ecommerce1
+2017-10-15 01:17:06,393 [Worker-18] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2017-10-15 01:17:08,706 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-15 01:17:08,751 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\main\resources
+2017-10-15 01:17:08,756 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-15 01:17:08,761 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Abhirup\Desktop\Abhi_project\Ecommerce_Project-master\project\ecommerce1\src\test\resources
+2017-10-15 01:17:08,762 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ecommerce1
+2017-10-15 01:17:08,764 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ecommerce1
+2017-10-15 01:17:08,796 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
